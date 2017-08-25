@@ -1,3 +1,3 @@
 # ASONAM16
 
-My slides is in the same direatory with README.md
+My slides is in the same directory with README.md
